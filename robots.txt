@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /kiosk
+
+Sitemap: https://sunshineglobaltrade.com/sitemap.xml
